@@ -23,7 +23,7 @@
 
 ### Fun fact:
 
-🏒 My favorite sport is ice hockey.
+- 🏒 My favorite sport is ice hockey.
 
 ## ⚡ Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hdevilbiss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
