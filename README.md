@@ -4,26 +4,28 @@
 
 ### 📔 Custom theme and plugin development in WordPress
 
-- ⛰️ The [bedrock](https://roots.io/bedrock) WordPress boilerplate uses Composer to install the WordPress core and WordPress plugins.
+- ⛰️ The **[bedrock](https://roots.io/bedrock)** WordPress boilerplate uses Composer to install the WordPress core and WordPress plugins.
 - 🖼️ The plugin **[Advanced Custom Fields](https://www.advancedcustomfields.com)** creates JSON field groups, useful for [website options](https://www.advancedcustomfields.com/resources/options-page/), custom page content, and custom post types, and more.
 - 📐 **[Timber](https://www.upstatement.com/timber)** enables the **[Twig templating engine](https://twig.symfony.com/)** in WordPress.
   - **P.S.** No more cluttering templates with mixed HTML and PHP! 🤢
 
 ### JavaScript
 
-- 🤔 The JavaScript certificate from [freeCodeCamp](https://freecodecamp.org)
+I have been working on completing the JavaScript certificate from [freeCodeCamp](https://freecodecamp.org).
 
-### ReactJS
+### ReactJS Projects
 
-- 🤩 The Creative React and Redux course with [developedbyed](https://developedbyed.com/)
+- **🎵 [HotLink Beats](https://github.com/hdevilbiss/react-music-player)**
+
+*Inspired by The Creative React and Redux course with [developedbyed](https://developedbyed.com/).*
 
 ### How to reach me:
 
-- 📫  **hello@webdevil.biz**
+📫  **hello@webdevil.biz**
 
 ### Fun fact:
 
-- 🏒 My favorite sport is ice hockey.
+🏒 My favorite sport is ice hockey.
 
 ## ⚡ Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hdevilbiss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
