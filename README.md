@@ -2,22 +2,28 @@
 
 ## 🌱 I’m currently learning about ...
 
+### JavaScript
+
+#### Projects
+
+**💻 [Intermediate Algorithm Scripting & Functional Programming](https://github.com/hdevilbiss/freeCodeCampJS)**
+
+*As part of the JavaScript certificate from [freeCodeCamp](https://freecodecamp.org)*
+
+### React
+
+#### Projects
+
+**🎵 [HotLink Beats](https://github.com/hdevilbiss/react-music-player)**
+
+*Inspired by The Creative React and Redux course with [developedbyed](https://developedbyed.com/).*
+
 ### 📔 Custom theme and plugin development in WordPress
 
 - ⛰️ The **[bedrock](https://roots.io/bedrock)** WordPress boilerplate uses Composer to install the WordPress core and WordPress plugins.
 - 🖼️ The plugin **[Advanced Custom Fields](https://www.advancedcustomfields.com)** creates JSON field groups, useful for [website options](https://www.advancedcustomfields.com/resources/options-page/), custom page content, and custom post types, and more.
 - 📐 **[Timber](https://www.upstatement.com/timber)** enables the **[Twig templating engine](https://twig.symfony.com/)** in WordPress.
   - **P.S.** No more cluttering templates with mixed HTML and PHP! 🤢
-
-### JavaScript
-
-I have been working on completing the JavaScript certificate from [freeCodeCamp](https://freecodecamp.org).
-
-### ReactJS Projects
-
-- **🎵 [HotLink Beats](https://github.com/hdevilbiss/react-music-player)**
-
-*Inspired by The Creative React and Redux course with [developedbyed](https://developedbyed.com/).*
 
 ### How to reach me:
 
