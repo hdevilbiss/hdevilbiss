@@ -1,31 +1,34 @@
 # Hello / Bonjour / Hallo / 大家好！ 👋
 
-## 🌱 I’m currently learning about ...
+Here are some of the things I am working on.
 
-### JavaScript
+## JavaScript
 
-#### Projects
+**💻 [Intermediate Algorithm Scripting & Functional Programming](https://github.com/hdevilbiss/freeCodeCampJS)**: A messy collection of Markdown and JavaScript files, with a couple Mocha unit tests.
 
-**💻 [Intermediate Algorithm Scripting & Functional Programming](https://github.com/hdevilbiss/freeCodeCampJS)**
+**🗿 [JavaScript Capstone Project](https://github.com/hdevilbiss/js-capstone)**: 5 algorithms, tested with Mocha, rendered with React, styled with Sass, and deployed with Google Firebase and GitHub Actions.
 
 *As part of the JavaScript certificate from [freeCodeCamp](https://freecodecamp.org)*
 
-### React
-
-#### Projects
+## React
 
 **🎵 [HotLink Beats](https://github.com/hdevilbiss/react-music-player)**
 
 *Inspired by The Creative React and Redux course with [developedbyed](https://developedbyed.com/).*
 
-### 📔 Custom theme and plugin development in WordPress
+## WordPress
 
-- ⛰️ The **[bedrock](https://roots.io/bedrock)** WordPress boilerplate uses Composer to install the WordPress core and WordPress plugins.
-- 🖼️ The plugin **[Advanced Custom Fields](https://www.advancedcustomfields.com)** creates JSON field groups, useful for [website options](https://www.advancedcustomfields.com/resources/options-page/), custom page content, and custom post types, and more.
+Here are some neat tools for creating custom WordPress themes and plugins.
+
+- ⛰️ The **[bedrock](https://roots.io/bedrock)** WordPress boilerplate uses Composer to install the WordPress core and WordPress plugins, to name only a couple of its benefits.
+- 🖼️ **[Advanced Custom Fields](https://www.advancedcustomfields.com)** is an awesome plugin, unlocking lots of creative potential in WordPress, especially useful for [website options](https://www.advancedcustomfields.com/resources/options-page/), custom page content, and custom post types.
 - 📐 **[Timber](https://www.upstatement.com/timber)** enables the **[Twig templating engine](https://twig.symfony.com/)** in WordPress.
   - **P.S.** No more cluttering templates with mixed HTML and PHP! 🤢
+- [Extended Custom Post Types](https://github.com/johnbillion/extended-cpts) by johnbillion is a developer library which I use to declare custom post types in functionality plugins.
 
 ### How to reach me:
+
+Write me a line! Always happy to talk about JavaScript or WordPress.
 
 📫  **hello@webdevil.biz**
 
