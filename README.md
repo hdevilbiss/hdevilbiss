@@ -28,13 +28,13 @@ Here are some neat tools for creating custom WordPress themes and plugins.
   - **P.S.** No more cluttering templates with mixed HTML and PHP! 🤢
 - **[Extended Custom Post Types](https://github.com/johnbillion/extended-cpts)** by johnbillion is a developer library which I use to declare custom post types in functionality plugins.
 
-### How to reach me:
+## How to reach me:
 
 Write me a line! Always happy to talk about JavaScript or WordPress.
 
 📫  **hello@webdevil.biz**
 
-### Fun fact:
+## Fun fact:
 
 🏒 My favorite sport is ice hockey.
 
