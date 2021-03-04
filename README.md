@@ -1,23 +1,5 @@
 # Hello / Bonjour / Hallo / 大家好！ 👋
 
-Here are some of the things I am working on.
-
-## JavaScript
-
-**🗿 [JavaScript Capstone Project](https://github.com/hdevilbiss/js-capstone)**: 5 algorithms, tested with Mocha, rendered with React, styled with Sass, and deployed with Google Firebase and GitHub Actions.
-
-**💻 [Intermediate Algorithm Scripting & Functional Programming](https://github.com/hdevilbiss/freeCodeCampJS)**: A messy collection of Markdown and JavaScript files, with a couple Mocha unit tests.
-
-*As part of the JavaScript certificate from [freeCodeCamp](https://freecodecamp.org)*
-
-## React
-
-**🎵 [HotLink Beats](https://github.com/hdevilbiss/react-music-player)**: A stylish music player which "hotlinks" audio and cover art from ChillHop.com.
-
-**🕯️ [ACME Mobile Meditation Co](https://github.com/hdevilbiss/react-portfolio-website)**: A 3-page portfolio website for a fictional business which provides mobile wellness services.
-
-*Inspired by The Creative React and Redux course with [developedbyed](https://developedbyed.com/).*
-
 ## WordPress
 
 Here are some neat tools for creating custom WordPress themes and plugins.
