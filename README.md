@@ -21,6 +21,5 @@ Write me a line! Always happy to talk about JavaScript or WordPress.
 🏒 My favorite sport is ice hockey.
 
 ## ⚡ Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hdevilbiss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdevilbiss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
