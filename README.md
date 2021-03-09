@@ -5,10 +5,11 @@
 Here are some neat tools for creating custom WordPress themes and plugins.
 
 - ⛰️ The **[bedrock](https://roots.io/bedrock)** WordPress boilerplate uses Composer to install the WordPress core and WordPress plugins, to name only a couple of its benefits.
-- 🖼️ **[Advanced Custom Fields](https://www.advancedcustomfields.com)** is an awesome plugin, unlocking lots of creative potential in WordPress, especially useful for [website options](https://www.advancedcustomfields.com/resources/options-page/), custom page content, and custom post types.
+- 📋 **[Advanced Custom Fields](https://www.advancedcustomfields.com)** is an awesome plugin, unlocking lots of creative potential in WordPress, especially useful for [website options](https://www.advancedcustomfields.com/resources/options-page/), custom page content, and custom post types.
 - 📐 **[Timber](https://www.upstatement.com/timber)** enables the **[Twig templating engine](https://twig.symfony.com/)** in WordPress.
   - **P.S.** No more cluttering templates with mixed HTML and PHP! 🤢
-- **[Extended Custom Post Types](https://github.com/johnbillion/extended-cpts)** by johnbillion is a developer library which I use to declare custom post types in functionality plugins.
+- 🚗 **[Extended Custom Post Types](https://github.com/johnbillion/extended-cpts)** by johnbillion is a developer library which I use to declare custom post types in functionality plugins.
+- 🖼️ **[Smush](https://wordpress.org/plugins/wp-smushit/)**:  A WordPress plugin which compresses images on upload, while also stripping any EXIF location metadata.
 
 ## How to reach me:
 
