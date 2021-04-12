@@ -1,7 +1,5 @@
 # Hello / Bonjour / Hallo / 大家好！ 👋
 
-📫  **hello@webdevil.biz**
-
 ## Fun fact:
 
 🏒 My favorite sport is ice hockey.
