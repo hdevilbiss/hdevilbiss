@@ -1,8 +1,12 @@
 # Hello / Bonjour / Hallo / 大家好！ 👋
 
-## Fun fact:
+## Collection of favorite commands
 
-🏒 My favorite sport is ice hockey.
+Display the octal file permissions of the files in the active directory. E.g., 644, 777
+
+```
+stat -c "%a %n" *
+```
 
 ## ⚡ Stats
 
