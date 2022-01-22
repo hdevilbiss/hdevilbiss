@@ -2,7 +2,7 @@
 
 ## Collection of favorite commands
 
-Display the octal file permissions of the files in the active directory. E.g., 644, 777
+🔢 Display the octal file permissions of the files in the active directory. E.g., 644, 777
 
 ```
 stat -c "%a %n" *
